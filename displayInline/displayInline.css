@@ -1,0 +1,16 @@
+.example {
+  color: #fff;
+  text-align: center;
+}
+.example-item {
+  display: inline;
+}
+.example-item_first {
+  background-color: #faa116;
+}
+.example-item_second {
+  background-color: #57c7c3;
+}
+.example-item_third {
+  background-color: #3b97d3;
+}
